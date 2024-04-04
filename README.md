@@ -1,1 +1,1 @@
-# breast-cancer-diagnosis
+This project aims to develop a machine learning-based system for detection breast cancer from data. The system utilizes learning techniques to analyze medical data and classify them as either benign or malignant# breast-cancer-diagnosis
